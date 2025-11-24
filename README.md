@@ -1,4 +1,4 @@
-# AVD - Autonomous Vehicle Driving (Group 8)
+# AVD - Autonomous Vehicle Driving
 
 This project implements an advanced autonomous driving agent for the **CARLA Simulator**. The agent is designed to navigate complex urban scenarios, handling traffic, vulnerable road users, and adverse weather conditions with specific behavioral logic.
 
